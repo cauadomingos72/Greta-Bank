@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "115931511403",
+    "project_id": "greta-bank-188af",
+    "storage_bucket": "greta-bank-188af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:115931511403:android:10a0c20a4d6beb1d7a0f2e",
+        "android_client_info": {
+          "package_name": "com.cauataryck.gretabank"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBALoG_H2oEuU9GP5hiBjF5CpTdwDv8xsg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
