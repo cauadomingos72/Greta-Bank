@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="@drawable/back3"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".HomeActivity">
+
+    <LinearLayout
+        android:id="@+id/divFund"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:background="@drawable/white_rectangle"
+        android:gravity="bottom"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent">
+
+        <LinearLayout
+            android:id="@+id/divLayout"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/addFund_btn"
+                android:layout_width="170dp"
+                android:layout_height="80dp"
+                app:backgroundTint="@color/black"
+                android:translationX="25dp"
+                android:translationY="10dp"
+                android:textColor="@color/white"
+                android:text="Adicionar\nFundos"
+                android:fontFamily="@font/archivo_black"
+                android:textSize="16dp"
+                android:drawableLeft="@drawable/baseline_attach_money_24">
+            </Button>
+
+            <Button
+                android:id="@+id/transfFund_btn"
+                android:layout_width="170dp"
+                android:layout_height="80dp"
+                app:backgroundTint="@color/black"
+                android:translationX="40dp"
+                android:textColor="@color/white"
+                android:translationY="10dp"
+                android:text="Transferir\nFundos"
+                android:fontFamily="@font/archivo_black"
+                android:textSize="16dp"
+                android:drawableLeft="@drawable/baseline_account_balance_24">
+            </Button>
+
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/loja_btn"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:background="@drawable/white_rectangle"
+        android:gravity="bottom"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toTopOf="@+id/divFund"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent">
+
+        <TextView
+            android:layout_width="385dp"
+            android:layout_height="30dp"
+            android:text="Loja"
+            android:fontFamily="@font/archivo_black"
+            android:textColor="@color/black"
+            android:textSize="18dp"
+            android:drawableRight="@drawable/baseline_arrow_forward_ios_24"
+            android:translationX="10dp"
+            android:translationY="-32dp">
+
+        </TextView>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/convert_btn"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:background="@drawable/white_rectangle"
+        android:gravity="bottom"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toTopOf="@+id/loja_btn"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent">
+
+        <TextView
+            android:layout_width="385dp"
+            android:layout_height="30dp"
+            android:text="Conversões"
+            android:fontFamily="@font/archivo_black"
+            android:textColor="@color/black"
+            android:textSize="18dp"
+            android:drawableRight="@drawable/baseline_arrow_forward_ios_24"
+            android:translationX="10dp"
+            android:translationY="-32dp">
+
+        </TextView>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/invest_btn"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:background="@drawable/white_rectangle"
+        android:gravity="bottom"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toTopOf="@+id/convert_btn"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent">
+
+        <TextView
+            android:layout_width="385dp"
+            android:layout_height="30dp"
+            android:text="Investimentos"
+            android:fontFamily="@font/archivo_black"
+            android:textColor="@color/black"
+            android:textSize="18dp"
+            android:drawableRight="@drawable/baseline_arrow_forward_ios_24"
+            android:translationX="10dp"
+            android:translationY="-32dp">
+
+        </TextView>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/saldo_btn"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:background="@drawable/orange_rectangle"
+        android:gravity="bottom"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toTopOf="@+id/invest_btn"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent">
+
+        <TextView
+            android:layout_width="100dp"
+            android:layout_height="20dp"
+            android:fontFamily="@font/archivo_black"
+            android:text="CONTA"
+            android:textColor="@color/black"
+            android:translationX="10dp"
+            android:translationY="-10dp">
+        </TextView>
+
+        <TextView
+            android:layout_width="385dp"
+            android:layout_height="40dp"
+            android:fontFamily="@font/archivo_black"
+            android:textColor="@color/black"
+            android:textSize="30dp"
+            android:text="$--.--"
+            android:drawableRight="@drawable/baseline_arrow_forward_ios_24"
+            android:translationX="10dp"
+            android:translationY="-15dp">
+
+        </TextView>
+
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_marginEnd="361dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/logo2">
+    </ImageView>
+
+    <ImageView
+        android:id="@+id/show_btn"
+        android:layout_width="25dp"
+        android:layout_height="25dp"
+        android:layout_marginStart="250dp"
+        android:layout_marginTop="19dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/eye_off">
+    </ImageView>
+
+    <ImageView
+        android:id="@+id/profile_btn"
+        android:layout_width="25dp"
+        android:layout_height="25dp"
+        android:layout_marginStart="345dp"
+        android:layout_marginTop="19dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/baseline_person_outline_24">
+    </ImageView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
