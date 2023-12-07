@@ -1,0 +1,6 @@
+com.cauataryck.gretabank.test.app-core-1.5.0-0 C:\Users\Teste\.gradle\caches\transforms-3\2036dda3c2993db54e511ca1c0f3a789\transformed\core-1.5.0\res
+com.cauataryck.gretabank.test.app-annotation-experimental-1.3.0-1 C:\Users\Teste\.gradle\caches\transforms-3\360c1778ddca9f67f13814ee75148bf6\transformed\annotation-experimental-1.3.0\res
+com.cauataryck.gretabank.test.app-androidTest-2 C:\Users\Teste\AndroidStudioProjects\GretaBank\app\build\generated\res\resValues\androidTest\debug
+com.cauataryck.gretabank.test.app-mergeDebugAndroidTestResources-3 C:\Users\Teste\AndroidStudioProjects\GretaBank\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.cauataryck.gretabank.test.app-mergeDebugAndroidTestResources-4 C:\Users\Teste\AndroidStudioProjects\GretaBank\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.cauataryck.gretabank.test.app-merged_res-5 C:\Users\Teste\AndroidStudioProjects\GretaBank\app\build\intermediates\merged_res\debugAndroidTest

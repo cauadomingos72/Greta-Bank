@@ -1,0 +1,438 @@
+[
+    {
+        "merged": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-merged_res-36:\\layout_activity_shop_store1.xml.flat",
+        "source": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-main-38:\\layout\\activity_shop_store1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-merged_res-36:\\drawable_ff1014eb.png.flat",
+        "source": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-main-38:\\drawable\\ff1014eb.png"
+    },
+    {
+        "merged": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-merged_res-36:\\drawable_qweqweqweq.png.flat",
+        "source": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-main-38:\\drawable\\qweqweqweq.png"
+    },
+    {
+        "merged": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-merged_res-36:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-main-38:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-merged_res-36:\\drawable_white_border.xml.flat",
+        "source": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-main-38:\\drawable\\white_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-merged_res-36:\\font_archivo_black.xml.flat",
+        "source": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-main-38:\\font\\archivo_black.xml"
+    },
+    {
+        "merged": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-merged_res-36:\\layout_activity_home_hide.xml.flat",
+        "source": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-main-38:\\layout\\activity_home_hide.xml"
+    },
+    {
+        "merged": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-merged_res-36:\\drawable_back2.png.flat",
+        "source": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-main-38:\\drawable\\back2.png"
+    },
+    {
+        "merged": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-merged_res-36:\\drawable_blue_circle.xml.flat",
+        "source": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-main-38:\\drawable\\blue_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-merged_res-36:\\drawable_greta__4_.png.flat",
+        "source": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-main-38:\\drawable\\greta__4_.png"
+    },
+    {
+        "merged": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-merged_res-36:\\drawable_outline_house_24.xml.flat",
+        "source": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-main-38:\\drawable\\outline_house_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-merged_res-36:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-main-38:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-merged_res-36:\\drawable_baseline_task_alt_24.xml.flat",
+        "source": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-main-38:\\drawable\\baseline_task_alt_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-merged_res-36:\\drawable_baseline_arrow_forward_white.xml.flat",
+        "source": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-main-38:\\drawable\\baseline_arrow_forward_white.xml"
+    },
+    {
+        "merged": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-merged_res-36:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-main-38:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-merged_res-36:\\layout_activity_invest.xml.flat",
+        "source": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-main-38:\\layout\\activity_invest.xml"
+    },
+    {
+        "merged": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-merged_res-36:\\drawable_logo2.png.flat",
+        "source": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-main-38:\\drawable\\logo2.png"
+    },
+    {
+        "merged": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-merged_res-36:\\drawable_outline_visibility_24.xml.flat",
+        "source": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-main-38:\\drawable\\outline_visibility_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-merged_res-36:\\font_baloo_bhai.xml.flat",
+        "source": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-main-38:\\font\\baloo_bhai.xml"
+    },
+    {
+        "merged": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-merged_res-36:\\layout_activity_sign_up.xml.flat",
+        "source": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-main-38:\\layout\\activity_sign_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-merged_res-36:\\drawable_greta__1_.png.flat",
+        "source": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-main-38:\\drawable\\greta__1_.png"
+    },
+    {
+        "merged": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-merged_res-36:\\drawable_bandeira_argaentina.png.flat",
+        "source": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-main-38:\\drawable\\bandeira_argaentina.png"
+    },
+    {
+        "merged": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-merged_res-36:\\drawable_back3.png.flat",
+        "source": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-main-38:\\drawable\\back3.png"
+    },
+    {
+        "merged": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-merged_res-36:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-main-38:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-merged_res-36:\\drawable_brflag.png.flat",
+        "source": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-main-38:\\drawable\\brflag.png"
+    },
+    {
+        "merged": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-merged_res-36:\\drawable_netshoes_logo_0.png.flat",
+        "source": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-main-38:\\drawable\\netshoes_logo_0.png"
+    },
+    {
+        "merged": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-merged_res-36:\\drawable_usflag.png.flat",
+        "source": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-main-38:\\drawable\\usflag.png"
+    },
+    {
+        "merged": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-merged_res-36:\\layout_activity_transition.xml.flat",
+        "source": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-main-38:\\layout\\activity_transition.xml"
+    },
+    {
+        "merged": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-merged_res-36:\\drawable_baseline_arrow_forward_24.xml.flat",
+        "source": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-main-38:\\drawable\\baseline_arrow_forward_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-merged_res-36:\\font_baloo.xml.flat",
+        "source": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-main-38:\\font\\baloo.xml"
+    },
+    {
+        "merged": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-merged_res-36:\\drawable__ff1014eb.png.flat",
+        "source": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-main-38:\\drawable\\_ff1014eb.png"
+    },
+    {
+        "merged": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-merged_res-36:\\drawable_greta.png.flat",
+        "source": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-main-38:\\drawable\\greta.png"
+    },
+    {
+        "merged": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-merged_res-36:\\drawable_greta__3_.png.flat",
+        "source": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-main-38:\\drawable\\greta__3_.png"
+    },
+    {
+        "merged": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-merged_res-36:\\layout_activity_add_fund.xml.flat",
+        "source": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-main-38:\\layout\\activity_add_fund.xml"
+    },
+    {
+        "merged": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-merged_res-36:\\drawable_eua.png.flat",
+        "source": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-main-38:\\drawable\\eua.png"
+    },
+    {
+        "merged": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-merged_res-36:\\drawable_amazon_logo_svg.png.flat",
+        "source": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-main-38:\\drawable\\amazon_logo_svg.png"
+    },
+    {
+        "merged": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-merged_res-36:\\drawable_eye_off.png.flat",
+        "source": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-main-38:\\drawable\\eye_off.png"
+    },
+    {
+        "merged": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-merged_res-36:\\drawable__80b57fbd9996e24bc43bef1.png.flat",
+        "source": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-main-38:\\drawable\\_80b57fbd9996e24bc43bef1.png"
+    },
+    {
+        "merged": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-merged_res-36:\\mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-main-38:\\mipmap-xxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-merged_res-36:\\drawable__fbe8131b5_removebg_preview.png.flat",
+        "source": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-main-38:\\drawable\\_fbe8131b5_removebg_preview.png"
+    },
+    {
+        "merged": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-merged_res-36:\\layout_activity_trans_greta1.xml.flat",
+        "source": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-main-38:\\layout\\activity_trans_greta1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-merged_res-36:\\drawable_baseline_lock_24.xml.flat",
+        "source": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-main-38:\\drawable\\baseline_lock_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-merged_res-36:\\mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-main-38:\\mipmap-mdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-merged_res-36:\\layout_activity_shop_store2.xml.flat",
+        "source": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-main-38:\\layout\\activity_shop_store2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-merged_res-36:\\drawable_pnggdasd.png.flat",
+        "source": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-main-38:\\drawable\\pnggdasd.png"
+    },
+    {
+        "merged": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-merged_res-36:\\layout_activity_data.xml.flat",
+        "source": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-main-38:\\layout\\activity_data.xml"
+    },
+    {
+        "merged": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-merged_res-36:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-main-38:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-merged_res-36:\\layout_activity_sac_fund.xml.flat",
+        "source": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-main-38:\\layout\\activity_sac_fund.xml"
+    },
+    {
+        "merged": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-merged_res-36:\\drawable_baseline_arrow_forward_ios_24.xml.flat",
+        "source": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-main-38:\\drawable\\baseline_arrow_forward_ios_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-merged_res-36:\\drawable_back5.png.flat",
+        "source": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-main-38:\\drawable\\back5.png"
+    },
+    {
+        "merged": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-merged_res-36:\\layout_activity_trans_ban2.xml.flat",
+        "source": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-main-38:\\layout\\activity_trans_ban2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-merged_res-36:\\drawable_baseline_remove_red_eye_24.xml.flat",
+        "source": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-main-38:\\drawable\\baseline_remove_red_eye_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-merged_res-36:\\drawable_white_rectangle.xml.flat",
+        "source": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-main-38:\\drawable\\white_rectangle.xml"
+    },
+    {
+        "merged": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-merged_res-36:\\layout_activity_transition_hide.xml.flat",
+        "source": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-main-38:\\layout\\activity_transition_hide.xml"
+    },
+    {
+        "merged": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-merged_res-36:\\layout_activity_home.xml.flat",
+        "source": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-main-38:\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "com.cauataryck.gretabank.app-merged_res-36:/layout_activity_convert.xml.flat",
+        "source": "com.cauataryck.gretabank.app-main-38:/layout/activity_convert.xml"
+    },
+    {
+        "merged": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-merged_res-36:\\drawable_jpn.png.flat",
+        "source": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-main-38:\\drawable\\jpn.png"
+    },
+    {
+        "merged": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-merged_res-36:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-main-38:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-merged_res-36:\\layout_activity_trans_ban1.xml.flat",
+        "source": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-main-38:\\layout\\activity_trans_ban1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-merged_res-36:\\drawable_plane1.png.flat",
+        "source": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-main-38:\\drawable\\plane1.png"
+    },
+    {
+        "merged": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-merged_res-36:\\drawable_back6.png.flat",
+        "source": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-main-38:\\drawable\\back6.png"
+    },
+    {
+        "merged": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-merged_res-36:\\drawable_icone_de_bandeira_arredondada_plana_do_brasil_97173_411_removebg_preview.png.flat",
+        "source": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-main-38:\\drawable\\icone_de_bandeira_arredondada_plana_do_brasil_97173_411_removebg_preview.png"
+    },
+    {
+        "merged": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-merged_res-36:\\drawable_baseline_attach_money_24.xml.flat",
+        "source": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-main-38:\\drawable\\baseline_attach_money_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-merged_res-36:\\drawable_flaggbtr.png.flat",
+        "source": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-main-38:\\drawable\\flaggbtr.png"
+    },
+    {
+        "merged": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-merged_res-36:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-main-38:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-merged_res-36:\\layout_activity_convert.xml.flat",
+        "source": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-main-38:\\layout\\activity_convert.xml"
+    },
+    {
+        "merged": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-merged_res-36:\\font_alfa_slab_one.xml.flat",
+        "source": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-main-38:\\font\\alfa_slab_one.xml"
+    },
+    {
+        "merged": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-merged_res-36:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-main-38:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-merged_res-36:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-main-38:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-merged_res-36:\\drawable_reco.png.flat",
+        "source": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-main-38:\\drawable\\reco.png"
+    },
+    {
+        "merged": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-merged_res-36:\\font_fredoka_one.xml.flat",
+        "source": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-main-38:\\font\\fredoka_one.xml"
+    },
+    {
+        "merged": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-merged_res-36:\\drawable_baseline_account_balance_24.xml.flat",
+        "source": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-main-38:\\drawable\\baseline_account_balance_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-merged_res-36:\\layout_activity_shop.xml.flat",
+        "source": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-main-38:\\layout\\activity_shop.xml"
+    },
+    {
+        "merged": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-merged_res-36:\\layout_activity_shop_store3.xml.flat",
+        "source": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-main-38:\\layout\\activity_shop_store3.xml"
+    },
+    {
+        "merged": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-merged_res-36:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-main-38:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-merged_res-36:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-main-38:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-merged_res-36:\\drawable_grtalogo_removebg_preview.png.flat",
+        "source": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-main-38:\\drawable\\grtalogo_removebg_preview.png"
+    },
+    {
+        "merged": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-merged_res-36:\\drawable_greta__2_.png.flat",
+        "source": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-main-38:\\drawable\\greta__2_.png"
+    },
+    {
+        "merged": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-merged_res-36:\\font_anton.xml.flat",
+        "source": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-main-38:\\font\\anton.xml"
+    },
+    {
+        "merged": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-merged_res-36:\\drawable_back2__2_.png.flat",
+        "source": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-main-38:\\drawable\\back2__2_.png"
+    },
+    {
+        "merged": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-merged_res-36:\\drawable_orange_rectangle.xml.flat",
+        "source": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-main-38:\\drawable\\orange_rectangle.xml"
+    },
+    {
+        "merged": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-merged_res-36:\\drawable_green_rectangle.xml.flat",
+        "source": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-main-38:\\drawable\\green_rectangle.xml"
+    },
+    {
+        "merged": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-merged_res-36:\\drawable_imagem_nike_logo_png_1024x1024_1.png.flat",
+        "source": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-main-38:\\drawable\\imagem_nike_logo_png_1024x1024_1.png"
+    },
+    {
+        "merged": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-merged_res-36:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-main-38:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-merged_res-36:\\drawable_c156b4270aea292b9b335dd463ea17eb_icone_de_planeta_terra_icone_de_terra.png.flat",
+        "source": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-main-38:\\drawable\\c156b4270aea292b9b335dd463ea17eb_icone_de_planeta_terra_icone_de_terra.png"
+    },
+    {
+        "merged": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-merged_res-36:\\layout_activity_trans_fund.xml.flat",
+        "source": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-main-38:\\layout\\activity_trans_fund.xml"
+    },
+    {
+        "merged": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-merged_res-36:\\mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-main-38:\\mipmap-hdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-merged_res-36:\\drawable_baseline_bar_chart_24.xml.flat",
+        "source": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-main-38:\\drawable\\baseline_bar_chart_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-merged_res-36:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-main-38:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-merged_res-36:\\drawable_rnu.jpg.flat",
+        "source": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-main-38:\\drawable\\rnu.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-merged_res-36:\\drawable_baseline_person_outline_24.xml.flat",
+        "source": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-main-38:\\drawable\\baseline_person_outline_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-merged_res-36:\\drawable_gele.png.flat",
+        "source": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-main-38:\\drawable\\gele.png"
+    },
+    {
+        "merged": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-merged_res-36:\\drawable_uniaoeuropeia.png.flat",
+        "source": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-main-38:\\drawable\\uniaoeuropeia.png"
+    },
+    {
+        "merged": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-merged_res-36:\\mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-main-38:\\mipmap-xhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-merged_res-36:\\drawable_baseline_email_24.xml.flat",
+        "source": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-main-38:\\drawable\\baseline_email_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-merged_res-36:\\drawable_back1.png.flat",
+        "source": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-main-38:\\drawable\\back1.png"
+    },
+    {
+        "merged": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-merged_res-36:\\drawable_white_rectangle_no_stroke.xml.flat",
+        "source": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-main-38:\\drawable\\white_rectangle_no_stroke.xml"
+    },
+    {
+        "merged": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-merged_res-36:\\font_bevan.xml.flat",
+        "source": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-main-38:\\font\\bevan.xml"
+    },
+    {
+        "merged": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-merged_res-36:\\drawable_chn.png.flat",
+        "source": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-main-38:\\drawable\\chn.png"
+    },
+    {
+        "merged": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-merged_res-36:\\drawable_back2__3_.png.flat",
+        "source": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-main-38:\\drawable\\back2__3_.png"
+    },
+    {
+        "merged": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-merged_res-36:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-main-38:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-merged_res-36:\\drawable_image__8_.png.flat",
+        "source": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-main-38:\\drawable\\image__8_.png"
+    },
+    {
+        "merged": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-merged_res-36:\\mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-main-38:\\mipmap-xxxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-merged_res-36:\\drawable_baseline_person_pin_24.xml.flat",
+        "source": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-main-38:\\drawable\\baseline_person_pin_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-merged_res-36:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-main-38:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-merged_res-36:\\layout_activity_trans_greta2.xml.flat",
+        "source": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-main-38:\\layout\\activity_trans_greta2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-merged_res-36:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-main-38:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-merged_res-36:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-main-38:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-merged_res-36:\\drawable_baseline_smartphone_24.xml.flat",
+        "source": "C:\\Users\\Teste\\.gradle\\daemon\\8.0\\com.cauataryck.gretabank.app-main-38:\\drawable\\baseline_smartphone_24.xml"
+    }
+]

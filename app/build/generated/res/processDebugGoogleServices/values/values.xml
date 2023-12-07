@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">367822598174</string>
+    <string name="google_api_key" translatable="false">AIzaSyAy-bgTGVynypnSmEGyB6-yHaWl-UoaO1o</string>
+    <string name="google_app_id" translatable="false">1:367822598174:android:f522d1ca0d5173604fbe0f</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAy-bgTGVynypnSmEGyB6-yHaWl-UoaO1o</string>
+    <string name="google_storage_bucket" translatable="false">greta-bank-3c7e3.appspot.com</string>
+    <string name="project_id" translatable="false">greta-bank-3c7e3</string>
+</resources>

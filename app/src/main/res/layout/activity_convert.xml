@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/white_rectangle_no_stroke"
+    tools:context=".ConvertActivity">
+
+    <TextView
+        android:id="@+id/textView8"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:fontFamily="@font/archivo_black"
+        android:text="CONVERSÃO"
+        android:textColor="@color/black"
+        android:textSize="22sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageView
+        android:id="@+id/imgLogo"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_marginTop="16dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.926"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/grtalogo_removebg_preview" />
+
+    <EditText
+        android:id="@+id/numConv"
+        android:layout_width="wrap_content"
+        android:layout_height="48dp"
+        android:layout_marginTop="85dp"
+        android:ems="10"
+        android:hint="R$ 20.00"
+        android:inputType="number"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/titleConv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="345dp"
+        android:fontFamily="@font/archivo_black"
+        android:text="COTAÇÕES EM REAL"
+        android:textColor="#000000"
+        android:textSize="19sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageView
+        android:id="@+id/argFlag"
+        android:layout_width="66dp"
+        android:layout_height="66dp"
+        android:layout_marginTop="400dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/bandeira_argaentina" />
+
+    <TextView
+        android:id="@+id/ars"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="12dp"
+        android:fontFamily="@font/archivo_black"
+        android:gravity="center"
+        android:text="ARS\n0.014"
+        android:textColor="@color/black"
+        android:textSize="15sp"
+        app:layout_constraintEnd_toEndOf="@+id/argFlag"
+        app:layout_constraintHorizontal_bias="0.476"
+        app:layout_constraintStart_toStartOf="@+id/argFlag"
+        app:layout_constraintTop_toBottomOf="@+id/argFlag" />
+
+    <ImageView
+        android:id="@+id/brasilFlag"
+        android:layout_width="66dp"
+        android:layout_height="66dp"
+        android:layout_marginTop="400dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.136"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/image__8_" />
+
+    <TextView
+        android:id="@+id/brl"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="12dp"
+        android:fontFamily="@font/archivo_black"
+        android:text="BRL\n1.00"
+        android:gravity="center"
+        android:textColor="@color/black"
+        android:textSize="15sp"
+        app:layout_constraintEnd_toEndOf="@+id/brasilFlag"
+        app:layout_constraintStart_toStartOf="@+id/brasilFlag"
+        app:layout_constraintTop_toBottomOf="@+id/brasilFlag" />
+
+
+    <ImageView
+        android:id="@+id/uniaoEurFlag"
+        android:layout_width="66dp"
+        android:layout_height="66dp"
+        android:layout_marginTop="548dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.136"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/uniaoeuropeia" />
+
+    <TextView
+        android:id="@+id/eUR"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="12dp"
+        android:fontFamily="@font/archivo_black"
+        android:gravity="center"
+        android:text="EUR\n5.34"
+        android:textColor="@color/black"
+        android:textSize="15sp"
+        app:layout_constraintEnd_toEndOf="@+id/uniaoEurFlag"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="@+id/uniaoEurFlag"
+        app:layout_constraintTop_toBottomOf="@+id/uniaoEurFlag" />
+
+    <ImageView
+        android:id="@+id/usaFlag"
+        android:layout_width="66dp"
+        android:layout_height="66dp"
+        android:layout_marginTop="400dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.864"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/eua" />
+
+    <TextView
+        android:id="@+id/uSD"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="12dp"
+        android:fontFamily="@font/archivo_black"
+        android:gravity="center"
+        android:text="USD\n5.03"
+        android:textColor="@color/black"
+        android:textSize="15sp"
+        app:layout_constraintEnd_toEndOf="@+id/usaFlag"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="@+id/usaFlag"
+        app:layout_constraintTop_toBottomOf="@+id/usaFlag" />
+
+    <ImageView
+        android:id="@+id/rnuFlag"
+        android:layout_width="66dp"
+        android:layout_height="66dp"
+        android:layout_marginTop="548dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/flaggbtr" />
+
+    <TextView
+        android:id="@+id/gBP"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="12dp"
+        android:fontFamily="@font/archivo_black"
+        android:gravity="center"
+        android:text="GBP\n6.12"
+        android:textColor="@color/black"
+        android:textSize="15sp"
+        app:layout_constraintEnd_toEndOf="@+id/rnuFlag"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="@+id/rnuFlag"
+        app:layout_constraintTop_toBottomOf="@+id/rnuFlag" />
+
+    <ImageView
+        android:id="@+id/chnFlag"
+        android:layout_width="66dp"
+        android:layout_height="66dp"
+        android:layout_marginTop="548dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.864"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/chn" />
+
+    <TextView
+        android:id="@+id/cny"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="12dp"
+        android:fontFamily="@font/archivo_black"
+        android:gravity="center"
+        android:text="CNY\n0.69"
+        android:textColor="@color/black"
+        android:textSize="15sp"
+        app:layout_constraintEnd_toEndOf="@+id/chnFlag"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="@+id/chnFlag"
+        app:layout_constraintTop_toBottomOf="@+id/chnFlag" />
+
+    <ImageView
+        android:id="@+id/back_btn"
+        android:layout_width="41dp"
+        android:layout_height="41dp"
+        android:layout_marginTop="16dp"
+        android:rotation="180"
+        android:clickable="true"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.041"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/baseline_arrow_forward_24" />
+
+    <TextView
+        android:id="@+id/resul"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/archivo_black"
+        android:text="Valor convertido:"
+        android:textColor="#000000"
+        android:textSize="16sp"
+        app:layout_constraintBottom_toTopOf="@+id/titleConv"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/numConv"
+        app:layout_constraintVertical_bias="0.64" />
+
+    <Spinner
+        android:id="@+id/selectMoedas"
+        android:layout_width="220dp"
+        android:layout_height="48dp"
+        android:layout_marginTop="148dp"
+        android:background="@drawable/white_rectangle"
+        android:entries="@array/opcoes"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
